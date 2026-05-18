@@ -1,10 +1,12 @@
 __pycache__/
 *.ipynb_checkpoints/
 .DS_Store
+.vscode/
+
+venv/
+.env
 
 data/
-datasets/
 models/
 *.csv
-*.txt
-*.npy
+*.h5
