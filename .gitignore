@@ -10,3 +10,4 @@ data/
 models/
 *.csv
 *.h5
+*.log
