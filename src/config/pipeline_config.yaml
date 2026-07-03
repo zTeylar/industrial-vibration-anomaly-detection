@@ -4,20 +4,20 @@ stft_params:
   hop_length: 512
   
 storage:
-  processed_dir_path: "src/data/processed"
+  processed_dir_path: "data/processed"
 
 datasets:
   set_1:
-    data_dir: "src/data/raw/1st_test"
+    data_dir: "data/raw/1st_test"
     num_channels: 8
     n_samples: 20480
 
   set_2:
-    data_dir: "src/data/raw/2nd_test"
+    data_dir: "data/raw/2nd_test"
     num_channels: 4
     n_samples: 20480
 
   set_3:
-    data_dir: "src/data/raw/3rd_test"
+    data_dir: "data/raw/3rd_test"
     num_channels: 4
     n_samples: 20480
